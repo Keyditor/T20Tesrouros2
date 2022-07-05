@@ -1,8 +1,7 @@
 # This is a sample Python script.
 import importlib
 
-import tesouro
-dice = importlib.import_module("dice","venv\Lib\site-packages\ ")
+import tesouro, dice
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
